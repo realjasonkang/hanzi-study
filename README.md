@@ -65,3 +65,6 @@ docker-compose restart
 
 - 项目地址: [https://github.com/dhjz/hanzi-study]( https://github.com/dhjz/hanzi-study)  
 - 预览地址: [https://dhjz.github.io/hanzi-study/](https://dhjz.github.io/hanzi-study/)
+
+# 如果你觉得对你有帮助, 可以鼓励一下哦~
+- <img src="https://gcore.jsdelivr.net/gh/dhjz/hanzi-study@master/appimg/zanshang.jpg" style="width: 340px;"/>
